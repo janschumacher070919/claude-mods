@@ -1,0 +1,6 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "description": "Panel neben dem Chat mit den To-dos der Sitzung und den geladenen Mods",
+  "types": "./types/index.d.ts"
+}
