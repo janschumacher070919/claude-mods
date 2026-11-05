@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Jan Schumacher" },
+  "plugins": [
+    {
+      "name": "dashboard",
+      "source": "./plugins/dashboard",
+      "description": "Panel neben dem Chat mit den To-dos der Sitzung und den geladenen Mods"
+    }
+  ]
+}
